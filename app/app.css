@@ -2,6 +2,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@custom-variant dark (&:is(.dark *));
+
 @theme {
   --font-sans: "Mona Sans", ui-sans-serif, system-ui, sans-serif,
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -161,3 +163,6 @@ form {
   @apply bg-pink-500 w-[300px] h-[300px] bottom-0 left-1/2;
   animation-delay: 4s;
 }
+
+html { scroll-behavior: smooth; }
+
