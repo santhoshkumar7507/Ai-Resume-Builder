@@ -1,5 +1,9 @@
 # 🚀 AI Resume Builder & Analyzer
 
+<p align="center">
+  <img src="./public/readme/banner.png" alt="AI Resume Builder Banner" width="100%">
+</p>
+
 [![Puter.js](https://img.shields.io/badge/Powered%20by-Puter.js-blueviolet?style=for-the-badge)](https://puter.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
@@ -64,7 +68,7 @@
 
 | Dashboard | Analysis View |
 | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/400x250?text=Premium+Dashboard) | ![Analysis](https://via.placeholder.com/400x250?text=AI+Detailed+Analysis) |
+| <img src="./public/readme/dashboard.png" width="400px"> | <img src="./public/readme/dashboard.png" width="400px"> |
 
 ---
 
